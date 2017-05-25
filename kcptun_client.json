@@ -1,0 +1,10 @@
+{
+	"localaddr": ":6789",
+	"remoteaddr": "23.106.129.173:666",
+	"key": "hello",
+	"crypt": "salsa20",
+	"mode": "fast3",
+	"datashard": 70,
+	"parityshard": 30,
+	"nocomp":false
+}

@@ -2,7 +2,8 @@
     "server": "127.0.0.1",
     "port_password": {
 	"1024": "helloworld!",
-	"10240": "helloworld!!"
+	"10240": "helloworld!",
+	"2048": "helloworld!"
     },
     "local_address": "127.0.0.1",
     "local_port":1080,

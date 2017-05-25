@@ -1,0 +1,335 @@
+2017/05/25 05:25:50 main.go:297: version: SELFBUILD
+2017/05/25 05:25:50 main.go:330: listening on: [::]:666
+2017/05/25 05:25:50 main.go:331: target: 127.0.0.1:2048
+2017/05/25 05:25:50 main.go:332: encryption: salsa20
+2017/05/25 05:25:50 main.go:333: nodelay parameters: 1 10 2 1
+2017/05/25 05:25:50 main.go:334: sndwnd: 1024 rcvwnd: 1024
+2017/05/25 05:25:50 main.go:335: compression: true
+2017/05/25 05:25:50 main.go:336: mtu: 1350
+2017/05/25 05:25:50 main.go:337: datashard: 70 parityshard: 30
+2017/05/25 05:25:50 main.go:338: acknodelay: false
+2017/05/25 05:25:50 main.go:339: dscp: 46
+2017/05/25 05:25:50 main.go:340: sockbuf: 4194304
+2017/05/25 05:25:50 main.go:341: keepalive: 10
+2017/05/25 05:25:50 main.go:342: snmplog: 
+2017/05/25 05:25:50 main.go:343: snmpperiod: 60
+2017/05/25 05:25:50 main.go:344: pprof: false
+2017/05/25 05:49:41 main.go:363: remote address: 218.56.32.4:32712
+2017/05/25 05:49:41 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:49:47 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:363: remote address: 218.56.32.4:64585
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:06 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:06 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:06 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:06 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:07 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:07 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:07 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:07 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:07 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:07 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:07 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:07 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:09 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:09 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:09 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:12 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:12 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:12 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:12 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:12 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:13 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:13 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:13 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:13 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:23 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:25 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:30 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:32 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:32 main.go:363: remote address: 218.56.32.4:46409
+2017/05/25 05:50:32 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:32 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:32 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:32 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:32 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:35 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:37 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:37 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:37 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:56 main.go:363: remote address: 218.56.32.4:50560
+2017/05/25 05:50:56 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:57 main.go:363: remote address: 218.56.32.4:46480
+2017/05/25 05:50:57 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:57 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:57 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:50:57 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:51:05 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:51:11 main.go:75: broken pipe
+2017/05/25 05:51:32 main.go:75: broken pipe
+2017/05/25 05:51:33 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:51:33 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:51:34 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:51:34 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:51:34 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:51:34 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:51:35 main.go:75: broken pipe
+2017/05/25 05:51:42 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 05:52:26 main.go:75: broken pipe
+2017/05/25 05:52:27 main.go:75: broken pipe
+2017/05/25 06:08:39 main.go:297: version: SELFBUILD
+2017/05/25 06:08:39 main.go:330: listening on: [::]:666
+2017/05/25 06:08:39 main.go:331: target: 127.0.0.1:2048
+2017/05/25 06:08:39 main.go:332: encryption: salsa20
+2017/05/25 06:08:39 main.go:333: nodelay parameters: 1 10 2 1
+2017/05/25 06:08:39 main.go:334: sndwnd: 1024 rcvwnd: 1024
+2017/05/25 06:08:39 main.go:335: compression: true
+2017/05/25 06:08:39 main.go:336: mtu: 1350
+2017/05/25 06:08:39 main.go:337: datashard: 70 parityshard: 30
+2017/05/25 06:08:39 main.go:338: acknodelay: false
+2017/05/25 06:08:39 main.go:339: dscp: 0
+2017/05/25 06:08:39 main.go:340: sockbuf: 4194304
+2017/05/25 06:08:39 main.go:341: keepalive: 10
+2017/05/25 06:08:39 main.go:342: snmplog: 
+2017/05/25 06:08:39 main.go:343: snmpperiod: 60
+2017/05/25 06:08:39 main.go:344: pprof: false
+2017/05/25 06:08:54 main.go:363: remote address: 218.56.32.4:47838
+2017/05/25 06:08:54 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:08:57 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:08:58 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:08:59 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:08:59 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:08:59 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:08:59 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:02 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:03 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:04 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:04 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:08 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:10 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:10 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:16 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:16 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:16 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:17 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:17 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:18 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:18 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:19 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:25 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:25 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:31 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:31 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:37 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:41 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:41 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:48 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:09:58 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:00 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:09 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:12 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:13 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:13 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:13 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:25 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:26 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:26 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:26 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:26 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:33 main.go:297: version: SELFBUILD
+2017/05/25 06:10:33 main.go:110: listen udp :666: bind: address already in use
+net.ListenUDP
+github.com/xtaci/kcp-go.ListenWithOptions
+	/root/goWorkspace/src/github.com/xtaci/kcp-go/sess.go:873
+main.main.func1
+	/root/goWorkspace/src/github.com/xtaci/kcptun/server/main.go:328
+github.com/urfave/cli.HandleAction
+	/root/goWorkspace/src/github.com/urfave/cli/app.go:485
+github.com/urfave/cli.(*App).Run
+	/root/goWorkspace/src/github.com/urfave/cli/app.go:259
+main.main
+	/root/goWorkspace/src/github.com/xtaci/kcptun/server/main.go:381
+runtime.main
+	/usr/local/go/src/runtime/proc.go:185
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:2197
+2017/05/25 06:10:43 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:43 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:10:44 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:11:12 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:11:12 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:11:12 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:11:54 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:11:54 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:11:54 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:12:07 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:12:30 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:12:51 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:12:53 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:12:53 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:12:54 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:12:54 main.go:81: dial tcp 127.0.0.1:2048: getsockopt: connection refused
+2017/05/25 06:14:09 main.go:297: version: SELFBUILD
+2017/05/25 06:14:09 main.go:330: listening on: [::]:666
+2017/05/25 06:14:09 main.go:331: target: 127.0.0.1:2048
+2017/05/25 06:14:09 main.go:332: encryption: salsa20
+2017/05/25 06:14:09 main.go:333: nodelay parameters: 1 10 2 1
+2017/05/25 06:14:09 main.go:334: sndwnd: 1024 rcvwnd: 1024
+2017/05/25 06:14:09 main.go:335: compression: true
+2017/05/25 06:14:09 main.go:336: mtu: 1350
+2017/05/25 06:14:09 main.go:337: datashard: 70 parityshard: 30
+2017/05/25 06:14:09 main.go:338: acknodelay: false
+2017/05/25 06:14:09 main.go:339: dscp: 0
+2017/05/25 06:14:09 main.go:340: sockbuf: 4194304
+2017/05/25 06:14:09 main.go:341: keepalive: 10
+2017/05/25 06:14:09 main.go:342: snmplog: 
+2017/05/25 06:14:09 main.go:343: snmpperiod: 60
+2017/05/25 06:14:09 main.go:344: pprof: false
+2017/05/25 06:14:40 main.go:363: remote address: 218.56.32.4:60557
+2017/05/25 06:14:40 main.go:89: stream opened
+2017/05/25 06:14:44 main.go:89: stream opened
+2017/05/25 06:14:45 main.go:89: stream opened
+2017/05/25 06:14:45 main.go:89: stream opened
+2017/05/25 06:14:47 main.go:89: stream opened
+2017/05/25 06:14:57 main.go:106: stream closed
+2017/05/25 06:14:57 main.go:89: stream opened
+2017/05/25 06:14:57 main.go:89: stream opened
+2017/05/25 06:14:57 main.go:89: stream opened
+2017/05/25 06:15:08 main.go:106: stream closed
+2017/05/25 06:15:08 main.go:106: stream closed
+2017/05/25 06:15:09 main.go:89: stream opened
+2017/05/25 06:15:09 main.go:89: stream opened
+2017/05/25 06:15:09 main.go:89: stream opened
+2017/05/25 06:15:12 main.go:89: stream opened
+2017/05/25 06:15:12 main.go:89: stream opened
+2017/05/25 06:15:12 main.go:89: stream opened
+2017/05/25 06:15:12 main.go:89: stream opened
+2017/05/25 06:15:12 main.go:89: stream opened
+2017/05/25 06:15:12 main.go:89: stream opened
+2017/05/25 06:15:12 main.go:89: stream opened
+2017/05/25 06:15:12 main.go:89: stream opened
+2017/05/25 06:15:12 main.go:89: stream opened
+2017/05/25 06:15:12 main.go:89: stream opened
+2017/05/25 06:15:13 main.go:106: stream closed
+2017/05/25 06:15:13 main.go:106: stream closed
+2017/05/25 06:15:13 main.go:106: stream closed
+2017/05/25 06:15:13 main.go:106: stream closed
+2017/05/25 06:15:13 main.go:106: stream closed
+2017/05/25 06:15:14 main.go:89: stream opened
+2017/05/25 06:15:23 main.go:89: stream opened
+2017/05/25 06:15:24 main.go:89: stream opened
+2017/05/25 06:15:29 main.go:89: stream opened
+2017/05/25 06:15:40 main.go:106: stream closed
+2017/05/25 06:15:40 main.go:106: stream closed
+2017/05/25 06:15:40 main.go:106: stream closed
+2017/05/25 06:15:40 main.go:89: stream opened
+2017/05/25 06:15:40 main.go:89: stream opened
+2017/05/25 06:15:41 main.go:89: stream opened
+2017/05/25 06:15:41 main.go:89: stream opened
+2017/05/25 06:15:41 main.go:89: stream opened
+2017/05/25 06:15:41 main.go:89: stream opened
+2017/05/25 06:15:41 main.go:89: stream opened
+2017/05/25 06:15:41 main.go:89: stream opened
+2017/05/25 06:15:41 main.go:89: stream opened
+2017/05/25 06:15:42 main.go:89: stream opened
+2017/05/25 06:15:42 main.go:89: stream opened
+2017/05/25 06:15:43 main.go:89: stream opened
+2017/05/25 06:15:43 main.go:106: stream closed
+2017/05/25 06:15:43 main.go:89: stream opened
+2017/05/25 06:15:43 main.go:89: stream opened
+2017/05/25 06:15:45 main.go:89: stream opened
+2017/05/25 06:15:45 main.go:89: stream opened
+2017/05/25 06:15:49 main.go:89: stream opened
+2017/05/25 06:15:49 main.go:89: stream opened
+2017/05/25 06:15:52 main.go:106: stream closed
+2017/05/25 06:15:53 main.go:106: stream closed
+2017/05/25 06:15:53 main.go:89: stream opened
+2017/05/25 06:15:53 main.go:89: stream opened
+2017/05/25 06:16:00 main.go:106: stream closed
+2017/05/25 06:16:00 main.go:89: stream opened
+2017/05/25 06:16:00 main.go:89: stream opened
+2017/05/25 06:16:01 main.go:89: stream opened
+2017/05/25 06:16:01 main.go:89: stream opened
+2017/05/25 06:16:02 main.go:89: stream opened
+2017/05/25 06:16:02 main.go:106: stream closed
+2017/05/25 06:16:02 main.go:106: stream closed
+2017/05/25 06:16:02 main.go:89: stream opened
+2017/05/25 06:16:02 main.go:89: stream opened
+2017/05/25 06:16:03 main.go:106: stream closed
+2017/05/25 06:16:03 main.go:106: stream closed
+2017/05/25 06:16:05 main.go:106: stream closed
+2017/05/25 06:16:06 main.go:89: stream opened
+2017/05/25 06:16:06 main.go:89: stream opened
+2017/05/25 06:16:07 main.go:89: stream opened
+2017/05/25 06:16:12 main.go:106: stream closed
+2017/05/25 06:16:13 main.go:106: stream closed
+2017/05/25 06:16:14 main.go:89: stream opened
+2017/05/25 06:16:14 main.go:89: stream opened
+2017/05/25 06:16:14 main.go:106: stream closed
+2017/05/25 06:16:18 main.go:106: stream closed
+2017/05/25 06:16:26 main.go:106: stream closed
+2017/05/25 06:16:31 main.go:89: stream opened
+2017/05/25 06:16:31 main.go:106: stream closed
+2017/05/25 06:16:31 main.go:106: stream closed
+2017/05/25 06:16:32 main.go:106: stream closed
+2017/05/25 06:16:34 main.go:106: stream closed
+2017/05/25 06:16:35 main.go:106: stream closed
+2017/05/25 06:18:15 main.go:106: stream closed
+2017/05/25 06:18:18 main.go:106: stream closed
+2017/05/25 06:18:42 main.go:106: stream closed
+2017/05/25 06:18:52 main.go:106: stream closed
+2017/05/25 06:18:57 main.go:106: stream closed
+2017/05/25 06:19:05 main.go:89: stream opened
+2017/05/25 06:19:13 main.go:106: stream closed
+2017/05/25 06:19:33 main.go:106: stream closed
+2017/05/25 06:19:42 main.go:106: stream closed
+2017/05/25 06:19:42 main.go:106: stream closed
+2017/05/25 06:19:43 main.go:106: stream closed
+2017/05/25 06:19:44 main.go:106: stream closed
+2017/05/25 06:19:49 main.go:106: stream closed
+2017/05/25 06:19:57 main.go:89: stream opened
+2017/05/25 06:19:57 main.go:89: stream opened
+2017/05/25 06:20:01 main.go:106: stream closed
+2017/05/25 06:20:01 main.go:106: stream closed
+2017/05/25 06:20:01 main.go:106: stream closed
+2017/05/25 06:20:01 main.go:106: stream closed
+2017/05/25 06:20:01 main.go:106: stream closed
+2017/05/25 06:20:02 main.go:106: stream closed
+2017/05/25 06:20:03 main.go:106: stream closed
+2017/05/25 06:20:04 main.go:106: stream closed
+2017/05/25 06:20:05 main.go:106: stream closed
+2017/05/25 06:20:06 main.go:106: stream closed
+2017/05/25 06:20:42 main.go:89: stream opened
+2017/05/25 06:20:42 main.go:89: stream opened
+2017/05/25 06:20:42 main.go:106: stream closed
+2017/05/25 06:20:54 main.go:89: stream opened
+2017/05/25 06:20:55 main.go:106: stream closed
