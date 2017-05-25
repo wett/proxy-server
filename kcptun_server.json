@@ -11,5 +11,5 @@
     "parityshard": 30,
     "dscp": 46,
     "nocomp":false,
-    "log": "$PWD/kcptun_server.log"
+    "log": "kcptun_server.log"
 }
