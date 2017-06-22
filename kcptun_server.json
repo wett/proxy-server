@@ -6,6 +6,5 @@
     "mode": "fast3",
     "datashard": 70,
     "parityshard": 30,
-    "nocomp":false,
-    "log": "kcptun_server.log"
+    "nocomp":false
 }
