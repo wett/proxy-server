@@ -2,7 +2,7 @@
 
 PROJECT_DIR=$HOME/proxy-server
 GO_WORKSPACE=goWorkspace
-VERSION=1.8.1
+VERSION=1.8.3
 OS=linux
 ARCH=amd64
 
