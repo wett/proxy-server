@@ -1,0 +1,10 @@
+{
+    "listen": ":7002",
+    "target": "127.0.0.1:8002",
+    "key": "helloworld",
+    "crypt": "salsa20",
+    "mode": "fast3",
+    "datashard": 70,
+    "parityshard": 30,
+    "nocomp":false
+}
